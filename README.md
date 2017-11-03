@@ -6,8 +6,8 @@
 #### Payments are handled with the Stripe API for a convenient online shopping experience.
 
 ## How to try the project
-### Install a webserver like Apache (Comes with the WAMP software stack)
-### Download the project under the www folder in the wamp directory
-### Paste the link to the project in your browser tab
+### 1- Install a webserver like Apache (Comes with the WAMP software stack)
+### 2- Download the project under the www folder in the wamp directory
+### 3- Paste the link to the project in your browser tab
 
 ### PS: To generate the database, you must open the project in eclipse or php storm and run the doctrine:database:create command
